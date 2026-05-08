@@ -5,7 +5,7 @@ st.title("welcome to ameth's porfolio")
 st.write("INGENIEUR ET TECHNICIEN EN SCIENCE AGRICOLE ALIMENTAIRE ET NUTRITIONNELLE")
 
 st.header("profil")
-st.image("A.jpeg",width =250)
+
 st.write("nom: Gueye")
 st.write("prenom: Mouhamet")
 st.write("date de naissance: 12/01/2005")
