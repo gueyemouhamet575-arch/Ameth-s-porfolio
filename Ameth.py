@@ -5,6 +5,8 @@ st.title("welcome to ameth's porfolio")
 st.write("INGENIEUR ET TECHNICIEN EN SCIENCE AGRICOLE ALIMENTAIRE ET NUTRITIONNELLE")
 
 st.header("profil")
+st.markdown("""Ingénieur en sciences agricoles et alimentaires, je suis passionné par l’innovation, la qualité et le développement durable dans le secteur agroalimentaire. Rigoureux, organisé et doté d’un excellent esprit d’équipe, je m’adapte facilement aux nouveaux défis et environnements professionnels. Grâce à mes compétences en communication et en gestion de projets, je contribue efficacement à l’optimisation des processus et au travail collaboratif. Je suis disponible par email et vous pouvez me contacter à tout moment.
+""")
 st.write("nom: Gueye")
 st.write("prenom: Mouhamet")
 st.write("date de naissance: 12/01/2005")
@@ -17,9 +19,10 @@ st.write("2023-2024 baccalaureat srie S2")
 
 st.header("competences techniques")
 
-st.write("amenagement du sol")
-st.write("elevage de betail")
+st.write("Amenagement du sol")
+st.write("Elevage de betail")
 st.write("JE m'aitrise les nouvelles methodes et techniques agricoles")
+st.write("Je m'aitrise les systemes d'irrigation")
 
 st.header("Projet realises")
         
@@ -33,5 +36,3 @@ st.write("email:gueye.mouhamet575@gmail.com")
 st.write("addresse:liberte6extention")
 
 
-
-        
